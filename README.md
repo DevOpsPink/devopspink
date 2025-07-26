@@ -60,6 +60,10 @@ _These are partner links — you won't pay a cent more, but you'll be supporting
 
 <a href="https://app.daily.dev/devopspink"><img src="https://api.daily.dev/devcards/v2/wE99MesO20lw9Ax54RJop.png?type=wide&r=24q" width="620" alt="Tatiana Mikhaleva's Dev Card"/></a>
 
+<a href="https://www.credly.com/badges/0ff37567-79db-4d73-91cc-eb4e6e843c8b" title="Getting Started with Microservices with Istio and IBM Cloud Kubernetes Service">
+    <img src="https://images.credly.com/size/680x680/images/adcbf36e-8fb6-433c-91d9-10f01eca10ce/blob" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="Getting Started with Microservices with Istio and IBM Cloud Kubernetes Service">
+</a>
+
 <a href="https://www.credly.com/badges/f22d3915-a986-4a17-9426-668e58b0fe49" title="AWS Knowledge: Amazon EKS">
     <img src="https://images.credly.com/size/680x680/images/9bcbde6d-1754-4617-9337-124f7b10a6c2/image.png" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="AWS Knowledge: Amazon EKS">
 </a>
