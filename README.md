@@ -1,53 +1,60 @@
-👋 I’m Tatiana Mikhaleva, a [Docker Captain](https://www.docker.com/captains/tatiana-mikhaleva/), [Notion Ambassador](https://www.notion.so/notion/Notion-Ambassador-Program-45448f9b8e704c7bab254bd505c4717c), [GitKraken Ambassador](https://www.gitkraken.com/meet-the-gitkraken-ambassadors), DevOps engineer, and founder of [DevOps.Pink](https://www.devops.pink) — where infrastructure meets clarity, community, and a little rebellion.
+I'm Tatiana Mikhaleva, a [Docker Captain](https://www.docker.com/captains/tatiana-mikhaleva/), [GitKraken Ambassador](https://www.gitkraken.com/meet-the-gitkraken-ambassadors), [Notion Ambassador](https://www.notion.so/notion/Notion-Ambassador-Program-45448f9b8e704c7bab254bd505c4717c), DevOps engineer, and the girl behind [DevOps.Pink](https://www.devops.pink/) — a corner of the internet where cloud automation gets clarity, community, and just a hint of pink rebellion.
 
-💾 I architect cloud solutions using **AWS**, **Azure**, **Terraform**, **Kubernetes**, and (of course) **Docker**. My thing? Building clean, scalable, automated systems that just work — and helping others do the same.
+💾 I've been shaping the cloud for years, working with AWS, Azure, Kubernetes, Terraform, and (of course) Docker. What really excites me is taking messy, fragile systems and turning them into something clean, automated, and reliable — the kind of systems that give engineers back their time (and sanity!).
 
-💡 I write in-depth, beginner-friendly tech guides that don’t bore you to sleep. My blog is a space for engineers who want real-world DevOps without the gatekeeping — especially **newcomers**, and especially **women in tech** who deserve better tools, more support, and fewer barriers.
+💛 I run [DevOps.Pink](https://www.devops.pink/), where I've built a community of engineers who want real-world DevOps without the gatekeeping. I write in-depth, step-by-step guides that make complex tech feel approachable — not just for seasoned pros, but for anyone who wants to break into DevOps. And yes, I put a special spotlight on women in tech because this space needs more support, more voices, and fewer barriers.
 
-🐳 Becoming a **Docker Captain** isn’t just a badge — it’s recognition of my mission: making DevOps not just understandable, but empowering. I believe anyone can master cloud and containers with the right guidance — and I’m here to provide it.
+🚀 My dream is to make DevOps exciting instead of exhausting, and to show that cloud and containers don't have to be a mystery. They can be a superpower.
 
-💖 I don’t just teach DevOps — I make people *want* to do it. I bring clarity to chaos, automate the boring stuff, and make tech a little more human. And if that means shaking up the status quo? Even better.
+🐳 As a Docker Captain, I love sharing everything I've learned — from Kubernetes clusters to CI/CD pipelines — so others can build better, faster, and with more confidence.
+
+💖 Tech is more than tools. I like to make it human: automate the boring stuff, bring structure to chaos, and make the process creative and fun. And if that means breaking some old rules, perfect.
+
+If you're building something big, something new, or something that scares you just a little… I'm already on board. Let's make DevOps a place where everyone can thrive!
 
 ## Featured by Docker on Their Official YouTube Channel
 
-Some of my developer shorts were picked up and published on Docker’s **official YouTube channel** — sharing real-world tips with thousands of devs.
+Some of my developer shorts were picked up and published on Docker's **official YouTube channel** - sharing real-world tips with thousands of devs.
 
-🐳 [My Dockerfile Was a Mess Until This](https://youtube.com/shorts/XdS8yRVDFOA) – A quick win with multi-stage builds that made my images faster and cleaner.
+🍿 [From Chaos to Calm: Docker Compose Saved My Dev Environment](https://www.youtube.com/shorts/G3n3W_SB4fY) - How Docker Compose transformed my local dev setup from a chaotic mess to a smooth, predictable process. One command, everything up and running — no heartbreak.
+
+🍿 [My Dockerfile Was a Mess Until This](https://youtube.com/shorts/XdS8yRVDFOA) - A quick win with multi-stage builds that made my images faster and cleaner.
 
 ## Tools I Personally Trust
 
 If you want to make your digital life a little calmer — here are two tools I use every day:
 
-🛸 [Proton VPN](https://go.getproton.me/SH1dk) – A trusted VPN that secures your Wi-Fi, hides your IP, and blocks trackers. Even in that no-password café Wi-Fi, you're safe.
+🛸 [Proton VPN](https://go.getproton.me/SH1dk) - A trusted VPN that secures your Wi-Fi, hides your IP, and blocks trackers. Even in that no-password café Wi-Fi, you're safe.
 
-🔑 [Proton Pass](https://go.getproton.me/SH1dj) – A password manager with on-device encryption. Passwords, logins, 2FA — always with you, and only for you.
+🔑 [Proton Pass](https://go.getproton.me/SH1dj) - A password manager with on-device encryption. Passwords, logins, 2FA — always with you, and only for you.
 
-*These are partner links — you won’t pay a cent more, but you'll be supporting [DevOps.Pink](https://www.devops.pink). Thank you — it really means a lot 💖*
+_These are partner links — you won't pay a cent more, but you'll be supporting [DevOps.Pink](https://www.devops.pink/). Thank you — it really means a lot 💖_
 
-## Follow Me
+## Social Channels
 
-🎬 [YouTube](https://www.youtube.com/channel/UCACxfwW1C8KQY1c6nU98VVw?sub_confirmation=1)\
-🐦 [X / Twitter](https://twitter.com/DevOpsPink)\
-🎨 [Instagram](https://www.instagram.com/DevOpsPink/)\
-🐘 [Mastodon](https://mastodon.social/@DevOpsPink)\
-🧵 [Threads](https://www.threads.net/@DevOpsPink)\
-🎸 [Facebook](https://www.facebook.com/DevOpsPink/)\
-🧊 [Bluesky](https://bsky.app/profile/devops.pink)\
-🎥 [TikTok](https://www.tiktok.com/@DevOpsPink)\
-💻 [LinkedIn](https://www.linkedin.com/in/DevOpsPink/)\
-🐈 [GitHub](https://github.com/DevOpsPink)
+🎬 [YouTube](https://www.youtube.com/channel/UCACxfwW1C8KQY1c6nU98VVw?sub_confirmation=1)  
+🐦 [X (Twitter)](https://x.com/devopspink)  
+🎨 [Instagram](https://www.instagram.com/devopspink/)  
+🐘 [Mastodon](https://mastodon.social/@devopspink)  
+🧵 [Threads](https://www.threads.net/@devopspink)  
+🎸 [Facebook](https://www.facebook.com/devopspink/)  
+🦋 [Bluesky](https://bsky.app/profile/devops.pink)  
+🎥 [TikTok](https://www.tiktok.com/@devopspink)  
+💻 [LinkedIn](https://www.linkedin.com/in/devopspink/)  
+📣 [daily.dev Squad](https://app.daily.dev/squads/devopscompass)  
+✈️ [Telegram](https://t.me/devopspink)  
+🐈 [GitHub](https://github.com/devopspink)
 
 ## Community of IT Experts
 
-👾 [Discord](https://discord.gg/3q2999RSux)
+👾 [Discord](https://devops.army)
 
 ## Refill My Coffee Supplies
 
-💖 [PayPal](https://www.paypal.com/paypalme/DevOpsPink)\
-🏆 [Patreon](https://www.patreon.com/DevOpsPink)\
-💎 [GitHub](https://github.com/sponsors/DevOpsPink)\
-🥤 [BuyMeaCoffee](https://www.buymeacoffee.com/DevOpsPink)\
-🍪 [Ko-fi](https://ko-fi.com/DevOpsPink)
+💖 [PayPal](https://www.paypal.com/paypalme/devopspink)  
+🏆 [Patreon](https://www.patreon.com/devopspink)  
+🥤 [BuyMeaCoffee](https://www.buymeacoffee.com/devopspink)  
+🍪 [Ko-fi](https://ko-fi.com/devopspink)
 
 ## My Digital Badges
 
