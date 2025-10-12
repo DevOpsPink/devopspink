@@ -66,7 +66,7 @@ _These are partner links - you won't pay a cent more, but you'll be supporting D
 </a>
 
 <a href="https://www.credly.com/badges/f22d3915-a986-4a17-9426-668e58b0fe49" title="AWS Knowledge: Amazon EKS">
-    <img src="https://images.credly.com/size/680x680/images/9bcbde6d-1754-4617-9337-124f7b10a6c2/image.png" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="AWS Knowledge: Amazon EKS">
+    <img src="https://images.credly.com/size/680x680/images/f5efafe6-ebdc-485c-9ffa-3a05533e634b/blob" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="AWS Knowledge: Amazon EKS">
 </a>
 
 <a href="https://www.credly.com/badges/fd7335c1-807b-44a8-a44b-1e0d62151408" title="Quantum-Safe Encryption Essentials">
@@ -126,7 +126,7 @@ _These are partner links - you won't pay a cent more, but you'll be supporting D
 </a>
 
 <a href="https://www.credly.com/badges/b20e07db-5063-44b7-9c27-79daa4a7111f" title="AWS Knowledge: Serverless">
-    <img src="https://images.credly.com/size/680x680/images/e07c6cc4-b737-4d7e-8ce8-66b6b7a60367/image.png" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="AWS Knowledge: Serverless">
+    <img src="https://images.credly.com/size/680x680/images/0c20a5b7-b4e9-4c2f-8b68-342e00a85e05/blob" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="AWS Knowledge: Serverless">
 </a>
 
 <a href="https://www.credly.com/badges/0b37c3ce-3629-461d-915b-7b7db8e76686" title="Deep Learning Essentials">
@@ -134,11 +134,11 @@ _These are partner links - you won't pay a cent more, but you'll be supporting D
 </a>
 
 <a href="https://www.credly.com/badges/37f8dfb3-dfa3-4b90-9de0-53da9e050fb3" title="AWS Knowledge: Networking Core">
-    <img src="https://images.credly.com/size/680x680/images/e75f222b-7f75-4d7b-8a6a-67d68aa59d62/image.png" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="AWS Knowledge: Networking Core">
+    <img src="https://images.credly.com/size/680x680/images/e1c202b1-bca1-469a-9149-127b4fe891d7/blob" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="AWS Knowledge: Networking Core">
 </a>
 
 <a href="https://www.credly.com/badges/7c0a1128-285b-456e-a6db-e514ffdf6d08" title="AWS Knowledge: Cloud Essentials">
-    <img src="https://images.credly.com/size/680x680/images/ec621e2a-c8f0-4459-806c-ae11829d372a/image.png" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="AWS Knowledge: Cloud Essentials">
+    <img src="https://images.credly.com/size/680x680/images/7cf036b0-c609-4378-a7be-9969e1dea7ab/blob" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="AWS Knowledge: Cloud Essentials">
 </a>
 
 <div align="center">
