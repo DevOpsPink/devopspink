@@ -12,6 +12,18 @@ I'm Tatiana Mikhaleva, a [Docker Captain](https://www.docker.com/captains/tatian
 
 If you're building something big, something new, or something that scares you just a little… I'm already on board. Let's make DevOps a place where everyone can thrive!
 
+## Tools I Personally Trust
+
+If you're building things, breaking things, or just trying to keep your digital life a little calmer - these are tools I actually use every day:
+
+🛸 [Proton VPN](https://go.getproton.me/SH1dk) **(60% off link)** - my invisible cloak online. It secures your Wi-Fi, hides your IP, and blocks trackers - even on the sketchiest café Wi-Fi.
+
+🔑 [Proton Pass](https://go.getproton.me/SH1dj) **(50% off link)** - my password vault. On-device encryption for logins, 2FA, and notes - all mine and only mine.
+
+🦑 [GitKraken Pro](https://gitkraken.cello.so/an1FhNXzY8k) **(50% off link)** - my visual Git sidekick. Gorgeous commit graph, painless merges, and fewer “what just broke?” moments.
+
+💖 These links give you sweet discounts - and help support DevOps.Pink at no extra cost. Thanks a ton!
+
 ## Featured by Docker on Their Official YouTube Channel
 
 Some of my developer shorts were picked up and published on Docker's **official YouTube channel** - sharing real-world tips with thousands of devs.
@@ -19,16 +31,6 @@ Some of my developer shorts were picked up and published on Docker's **official 
 🍿 [From Chaos to Calm: Docker Compose Saved My Dev Environment](https://www.youtube.com/shorts/G3n3W_SB4fY) - How Docker Compose transformed my local dev setup from a chaotic mess to a smooth, predictable process. One command, everything up and running - no heartbreak.
 
 🍿 [My Dockerfile Was a Mess Until This](https://youtube.com/shorts/XdS8yRVDFOA) - A quick win with multi-stage builds that made my images faster and cleaner.
-
-## Tools I Personally Trust
-
-If you want to make your digital life a little calmer - here are two tools I use every day:
-
-🛸 [Proton VPN](https://go.getproton.me/SH1dk) - A trusted VPN that secures your Wi-Fi, hides your IP, and blocks trackers. Even in that no-password café Wi-Fi, you're safe.
-
-🔑 [Proton Pass](https://go.getproton.me/SH1dj) - A password manager with on-device encryption. Passwords, logins, 2FA - always with you, and only for you.
-
-_These are partner links - you won't pay a cent more, but you'll be supporting DevOps.Pink. Thank you - it really means a lot 💖_
 
 ## Social Channels
 
