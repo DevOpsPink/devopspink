@@ -63,6 +63,10 @@ Some of my developer shorts were picked up and published on Docker's **official 
 
 <a href="https://app.daily.dev/devopspink"><img src="https://api.daily.dev/devcards/v2/wE99MesO20lw9Ax54RJop.png?type=wide&r=24q" width="620" alt="Tatiana Mikhaleva's Dev Card"/></a>
 
+<a href="https://www.credly.com/earner/earned/badge/b1e1a1c7-ab5d-4764-aeb1-439a12b86526" title="CNCF Ambassador: 2025 - 2027">
+    <img src="https://images.credly.com/size/680x680/images/9a05bdd3-d509-47e7-aa6b-9c500fb90fe7/blob" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="CNCF Ambassador: 2025 - 2027">
+</a>
+
 <a href="https://www.credly.com/badges/0ff37567-79db-4d73-91cc-eb4e6e843c8b" title="Getting Started with Microservices with Istio and IBM Cloud Kubernetes Service">
     <img src="https://images.credly.com/size/680x680/images/adcbf36e-8fb6-433c-91d9-10f01eca10ce/blob" width="150" height="150" style="border:0; width:150px; height:auto; max-width:150px; max-height:150px;" alt="Getting Started with Microservices with Istio and IBM Cloud Kubernetes Service">
 </a>
